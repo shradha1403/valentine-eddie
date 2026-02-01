@@ -1,4 +1,4 @@
-# 💝 Valentine's Day Website 2025 💝
+# 💝 Valentine's Day Website 2026 💝
 
 [![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
 [![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
@@ -219,26 +219,3 @@ music: {
 - Check how it looks on mobile phones
 - Keep the secret message subtle (bottom-right corner)
 
-## 🎨 Want Different Colors?
-Use these tools to find beautiful colors:
-- [Coolors](https://coolors.co/) - Color palette generator
-- [ColorHunt](https://colorhunt.co/) - Color palettes
-
-## 🔍 Need More Emojis?
-Find more emojis at:
-- [EmojiKeyboard](https://emojikeyboard.top/fr/)
-- [Emojipedia](https://emojipedia.org/)
-
-## 🤝 Need Help?
-- Create an issue in this repository
-- Check existing issues for solutions
-- Contact me through GitHub
-
-## 💖 Credits
-Created with love for Valentine's Day 2025.
-Feel free to use and modify for your special someone!
-
-\- Louis Fontaine -
-
-## 📜 License
-MIT License - Feel free to use this for your Valentine! 
